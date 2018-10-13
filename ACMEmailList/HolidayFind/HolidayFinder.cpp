@@ -1,3 +1,4 @@
+//Author: Steven Calvert
 #include <iostream>
 #include <string>
 

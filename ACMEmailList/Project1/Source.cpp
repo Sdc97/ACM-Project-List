@@ -1,4 +1,4 @@
-
+//Author: Steven Calvert
 #include <iostream>
 #include <array>
 #include <fstream>
